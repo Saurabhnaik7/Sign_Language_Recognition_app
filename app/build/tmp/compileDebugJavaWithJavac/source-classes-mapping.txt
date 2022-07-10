@@ -1,0 +1,79 @@
+mquinn/sign_language/processing/SkeletonFrameProcessor.java
+ mquinn.sign_language.processing.SkeletonFrameProcessor
+mquinn/sign_language/processing/FeatureFrameProcessor.java
+ mquinn.sign_language.processing.FeatureFrameProcessor
+ mquinn.sign_language.processing.FeatureFrameProcessor$1
+mquinn/sign_language/BuildConfig.java
+ mquinn.sign_language.BuildConfig
+mquinn/sign_language/rendering/ContourMaskRenderer.java
+ mquinn.sign_language.rendering.ContourMaskRenderer
+mquinn/sign_language/processing/postprocessing/OutputFramePostProcessor.java
+ mquinn.sign_language.processing.postprocessing.OutputFramePostProcessor
+mquinn/sign_language/processing/preprocessing/CameraFrameAdapter.java
+ mquinn.sign_language.processing.preprocessing.CameraFrameAdapter
+mquinn/sign_language/rendering/CannyEdgesRenderer.java
+ mquinn.sign_language.rendering.CannyEdgesRenderer
+mquinn/sign_language/processing/CroppingFrameProcessor.java
+ mquinn.sign_language.processing.CroppingFrameProcessor
+ mquinn.sign_language.processing.CroppingFrameProcessor$1
+mquinn/sign_language/rendering/MainRenderer.java
+ mquinn.sign_language.rendering.MainRenderer
+ mquinn.sign_language.rendering.MainRenderer$1
+mquinn/sign_language/imaging/Frame.java
+ mquinn.sign_language.imaging.Frame
+mquinn/sign_language/processing/postprocessing/UpScalingFramePostProcessor.java
+ mquinn.sign_language.processing.postprocessing.UpScalingFramePostProcessor
+mquinn/sign_language/processing/CannyEdgeFrameProcessor.java
+ mquinn.sign_language.processing.CannyEdgeFrameProcessor
+mquinn/sign_language/utility/JsonMatParser.java
+ mquinn.sign_language.utility.JsonMatParser
+mquinn/sign_language/imaging/SkinColourProfile.java
+ mquinn.sign_language.imaging.SkinColourProfile
+mquinn/sign_language/processing/ColourThresholdFrameProcessor.java
+ mquinn.sign_language.processing.ColourThresholdFrameProcessor
+mquinn/sign_language/processing/NormalisingFrameProcessor.java
+ mquinn.sign_language.processing.NormalisingFrameProcessor
+ mquinn.sign_language.processing.NormalisingFrameProcessor$1
+mquinn/sign_language/imaging/HSVA.java
+ mquinn.sign_language.imaging.HSVA
+mquinn/sign_language/processing/preprocessing/IFramePreProcessor.java
+ mquinn.sign_language.processing.preprocessing.IFramePreProcessor
+mquinn/sign_language/imaging/IFrame.java
+ mquinn.sign_language.imaging.IFrame
+mquinn/sign_language/processing/ContourMaskProcessor.java
+ mquinn.sign_language.processing.ContourMaskProcessor
+mquinn/sign_language/processing/SizeOperation.java
+ mquinn.sign_language.processing.SizeOperation
+mquinn/sign_language/processing/preprocessing/InputFramePreProcessor.java
+ mquinn.sign_language.processing.preprocessing.InputFramePreProcessor
+mquinn/sign_language/svm/FrameClassifier.java
+ mquinn.sign_language.svm.FrameClassifier
+mquinn/sign_language/rendering/IRenderer.java
+ mquinn.sign_language.rendering.IRenderer
+mquinn/sign_language/processing/IFrameProcessor.java
+ mquinn.sign_language.processing.IFrameProcessor
+mquinn/sign_language/MainActivity.java
+ mquinn.sign_language.MainActivity
+ mquinn.sign_language.MainActivity$1
+ mquinn.sign_language.MainActivity$2
+ mquinn.sign_language.MainActivity$3
+ mquinn.sign_language.MainActivity$4
+ mquinn.sign_language.MainActivity$5
+mquinn/sign_language/processing/DownSamplingFrameProcessor.java
+ mquinn.sign_language.processing.DownSamplingFrameProcessor
+mquinn/sign_language/processing/DetectionMethod.java
+ mquinn.sign_language.processing.DetectionMethod
+mquinn/sign_language/processing/MainFrameProcessor.java
+ mquinn.sign_language.processing.MainFrameProcessor
+ mquinn.sign_language.processing.MainFrameProcessor$1
+mquinn/sign_language/rendering/SkeletonRenderer.java
+ mquinn.sign_language.rendering.SkeletonRenderer
+mquinn/sign_language/svm/LetterClass.java
+ mquinn.sign_language.svm.LetterClass
+mquinn/sign_language/rendering/FeatureRenderer.java
+ mquinn.sign_language.rendering.FeatureRenderer
+mquinn/sign_language/processing/ResizingFrameProcessor.java
+ mquinn.sign_language.processing.ResizingFrameProcessor
+ mquinn.sign_language.processing.ResizingFrameProcessor$1
+mquinn/sign_language/processing/postprocessing/IFramePostProcessor.java
+ mquinn.sign_language.processing.postprocessing.IFramePostProcessor
